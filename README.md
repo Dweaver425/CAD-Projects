@@ -32,17 +32,18 @@ Each project folder includes:
 
 ### Shock Piston Designs
 - **ShockPiston2mm**  
-<img src="images/ShockPiston2mm.png" alt="ShockPiston2mm" width="300"/>
+<img src="ShockPiston2mm.png" alt="ShockPiston2mm" width="300"/>
+
 - **ShockPiston5mm**  
-<img src="images/ShockPiston5mm.png" alt="ShockPiston5mm" width="300"/>
+<img src="ShockPiston5mm.png" alt="ShockPiston5mm" width="300"/>
 
 ### Brake Components
-- **BrakeDiskSpacer**  
-<img src="images/BrakeDiskSpacer.png" alt="BrakeDiskSpacer" width="300"/>
+- **Brake Disk Spacer**  
+<img src="BrakeDiskSpacer.png" alt="BrakeDiskSpacer" width="300"/>
 
 ### Accessories
-- **RCStand**  
-<img src="images/RCStand.png" alt="RCStand" width="300"/>
+- **RC Car Stand**  
+<img src="RCStand.png" alt="RCStand" width="300"/>
 
 ---
 
