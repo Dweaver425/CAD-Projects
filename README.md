@@ -1,7 +1,7 @@
 # 🛠 CAD Projects
 
 Welcome to my collection of **CAD (Computer-Aided Design) projects**.  
-This repository highlights my mechanical design, prototyping, and 3D modeling skills using tools such as *Fusion 360* 
+This repository showcases my mechanical design, prototyping, and 3D modeling skills using tools such as *Fusion 360*.  
 
 ---
 
@@ -14,9 +14,9 @@ Each project folder includes:
 ---
 
 ## 📂 Project Examples
-- **Valved Shock Piston** – Performance-oriented designs with variable hole configurations for tuning rebound/compression.  
-- **Brake Disk Spacer** – Custom-fit spacers to eliminate rotor vibration and improved durability.  
-- **3D Printed Stand** – R/C Car stand.  
+- **Valved Shock Piston** – Performance-oriented designs with variable hole configurations for tuning rebound and compression.  
+- **Brake Disk Spacer** – Custom-fit spacers to eliminate rotor vibration and improve durability.  
+- **3D Printed Stand (RCStand)** – Custom R/C car stand for maintenance and display.  
 
 ---
 
@@ -44,8 +44,8 @@ Each project folder includes:
 - **RCStand**  
 <img src="images/RCStand.png" alt="RCStand" width="300"/>
 
+---
+
 ## 📜 License
 These designs are shared for educational and portfolio purposes.  
-If you would like to use or modify them, please contact me first.  
-
----
+If you would like to use or modify them, please contact me first.
