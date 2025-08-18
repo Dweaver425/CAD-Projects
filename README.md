@@ -26,26 +26,53 @@ Each project folder includes:
 - Prototyping for 3D Printing & CNC Machining  
 - Mechanical Visualization & Rendering  
 
----
 
-## 📸 Previews
+## 📂 Project Examples
 
 ### Shock Piston Designs
-- **ShockPiston2mm**  
-<img src="ShockPiston2mm.png" alt="ShockPiston2mm" width="300"/>
+- **Shock Piston 2mm**  
+[![ShockPiston2mm](ShockPiston2mm.png)](ShockPiston2mm.png)  
+- **Files:**  
+  - [STL File](<Rear shock piston 2mm thick v1.stl>)  
+  - [F3D Source](<Rear shock piston 2mm thick v1.f3d>)
 
-- **ShockPiston5mm**  
-<img src="ShockPiston5mm.png" alt="ShockPiston5mm" width="300"/>
+- **Shock Piston 5mm**  
+[![ShockPiston5mm](ShockPiston5mm.png)](ShockPiston5mm.png)  
+- **Files:**  
+  - [STL File](<Rear shock piston 5mm thick v2.stl>)  
+  - [F3D Source](<Rear shock piston 5mm thick v2.f3d>)
 
 ### Brake Components
 - **Brake Disk Spacer**  
-<img src="BrakeDiskSpacer.png" alt="BrakeDiskSpacer" width="300"/>
+[![BrakeDiskSpacer](BrakeDiskSpacer.png)](BrakeDiskSpacer.png)  
+- **Files:**  
+  - [STL File](<BrakeDiskSpacer v2.stl>)  
+  - [F3D Source](<BrakeDiskSpacer v2.f3d>)
 
 ### Accessories
 - **RC Car Stand**  
-<img src="RCStand.png" alt="RCStand" width="300"/>
+[![RCStand](RCStand.png)](RCStand.png)  
+- **Files:**  
+  - [STL File](<RC car stand v1.stl>)  
+  - [F3D Source](<RC car stand v1.f3d>)
 
 ---
+
+## 🚀 Skills Demonstrated
+- 3D Modeling & Parametric Design  
+- Engineering Tolerances & Fits  
+- Prototyping for 3D Printing & CNC Machining  
+- Mechanical Visualization & Rendering  
+---
+
+## 🚀 Skills Demonstrated
+- 3D Modeling & Parametric Design  
+- Engineering Tolerances & Fits  
+- Prototyping for 3D Printing & CNC Machining  
+- Mechanical Visualization & Rendering  
+
+---
+
 
 ## 📜 License
 These designs are shared for educational and portfolio purposes.  
