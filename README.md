@@ -63,13 +63,6 @@ Each project folder includes:
 - Engineering Tolerances & Fits  
 - Prototyping for 3D Printing & CNC Machining  
 - Mechanical Visualization & Rendering  
----
-
-## 🚀 Skills Demonstrated
-- 3D Modeling & Parametric Design  
-- Engineering Tolerances & Fits  
-- Prototyping for 3D Printing & CNC Machining  
-- Mechanical Visualization & Rendering  
 
 ---
 
